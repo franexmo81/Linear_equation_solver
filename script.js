@@ -3,7 +3,7 @@ function EquationSolver() {
 document.body.innerHTML = ""; // Clears the HTML document from previous written elements
 
 // Equation user input
-var equation = prompt("Write the linear equation without any spaces.\nThe  unknown factor needs to be lowercase x"); //creates variable for equation and asks the user to write it
+var equation = prompt("Write the linear equation without any spaces.\nThe unknown factor needs to be lowercase x"); //creates variable for equation and asks the user to write it
 document.write("Input: " + equation + "<br>"); //Shows equation input
 
 
